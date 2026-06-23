@@ -1,0 +1,23 @@
+# ============================================================
+# TFG ==> Optimización Hidroeléctrica Multi-objetivo del río Sil
+# Yoel Urquijo Barroso | GIF-25025 | UAX
+# Dependencias externas (instalables "pip")
+# ============================================================
+
+# Manipulación y análisis de datos (En todos los programas)
+pandas
+
+# Álgebra numérica y evaluación vectorizada (Programa-TFG)
+numpy
+
+# Visualización: Frentes de Pareto y gráficas comparativas (Programa-TFG)
+matplotlib
+
+# Tests estadísticos: Wilcoxon, Holm-Bonferroni (Programa-TFG)
+scipy
+
+# Framework de optimización multiobjetivo [NSGA-II, SPEA2, MOEA/D (Programa-TFG)]
+pymoo
+
+# Extracción de datos del PDF de precios IDAE/PREOC (Script-Precios)
+pdfplumber

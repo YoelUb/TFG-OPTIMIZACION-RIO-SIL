@@ -27,7 +27,7 @@
 
 ---
 
-## 📋 Tabla de contenidos
+## Tabla de contenidos
 
 1. [Descripción general](#-descripción-general)
 2. [Fuentes de datos oficiales](#-fuentes-de-datos-oficiales)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🎯 Descripción general
+##  Descripción general
 
 Este proyecto desarrolla un sistema de optimización basado en **computación evolutiva multi-objetivo** para determinar la ubicación óptima de minicentrales hidroeléctricas en un tramo de 20 km de los **Cañones del río Sil** (Lugo, Galicia).
 
@@ -89,7 +89,7 @@ Se comparan tres algoritmos genéticos multi-objetivo — **NSGA-II**, **SPEA2**
 
 ---
 
-## ▶️ Orden de ejecución
+##  Orden de ejecución
 
 Los notebooks deben ejecutarse en este orden, ya que cada uno genera datos que usa el siguiente:
 

@@ -67,7 +67,7 @@ Se comparan tres algoritmos genéticos multi-objetivo — **NSGA-II**, **SPEA2**
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 .
